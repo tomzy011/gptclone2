@@ -1,0 +1,27 @@
+.letter{
+color: white;
+}
+.back{
+
+background-attachment: fixed;
+background-size: cover;
+background-repeat: none;
+}
+.aboutpage{
+    
+    text-align: center;
+    background-color: white;
+    width: 350px;
+    
+    
+}
+.images{
+    width: 20px;
+    display: inline;
+
+}
+.edit{
+    width: 612px;
+    height: 370px;
+}
+    
